@@ -33,7 +33,7 @@
       },
       "runtime" : {
          "requires" : {
-            "Mojolicious" : "3.43",
+            "Mojolicious" : "3.87",
             "XML::Loy" : "0.15",
             "perl" : "5.010001"
          }
@@ -48,5 +48,5 @@
          "url" : "https://github.com/Akron/Mojolicious-Plugin-XML-Loy"
       }
    },
-   "version" : "0.04"
+   "version" : "0.05"
 }
