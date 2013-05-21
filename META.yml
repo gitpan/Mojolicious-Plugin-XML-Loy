@@ -20,9 +20,9 @@ no_index:
     - inc
 requires:
   Mojolicious: 3.87
-  XML::Loy: 0.15
+  XML::Loy: 0.18
   perl: 5.010001
 resources:
   license: http://www.opensource.org/licenses/artistic-license-2.0
   repository: https://github.com/Akron/Mojolicious-Plugin-XML-Loy
-version: 0.06
+version: 0.07
